@@ -216,7 +216,7 @@ hr {
   display: flex;
   background: #fff8f3;
   gap: 115px;
-  padding: 150px 250px;
+  padding: 100px 250px;
   margin-top: 115px;
 }
 
@@ -242,4 +242,14 @@ textarea {
 
 .input {
   height: 64px;
+}
+
+/* footer section */
+
+footer {
+  text-align: center;
+  font-size: 15px;
+  color: #474747;
+  margin-bottom: 10px;
+  display: block;
 }
